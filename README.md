@@ -23,5 +23,4 @@
   <a href="#"><img style="width:64px;" src="https://user-images.githubusercontent.com/68135098/194763863-ea594451-a0dc-4aed-9420-3eeb2b60465d.png" alt="postgres"/></a>
   <a href="#"><img style="width:64px;" src="https://user-images.githubusercontent.com/68135098/194763916-94086009-12f2-4655-88bf-12d217539ff4.png" alt="microsoft"/></a>
   <a href="#"><img style="width:64px;" src="https://user-images.githubusercontent.com/68135098/194763524-41fcd386-5fca-426f-bf12-3591ec0e9508.png" alt="IIS"/></a>
-  <a href="#"><img style="width:64px;" src="https://user-images.githubusercontent.com/68135098/194763991-de09de0b-7e80-4580-b782-406550926886.png" alt="github"/></a>
 </p>
