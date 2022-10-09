@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently available to locaborate in projects.
+🔭 I’m currently available to collaborate in projects.
 
 📫 How to reach me: berselismendoza@gmail.com
 
