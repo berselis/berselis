@@ -1,21 +1,23 @@
-### Hi there 👋
+![Screenshot 2022-10-09 102351](https://user-images.githubusercontent.com/68135098/194762159-27fad4db-eff0-4422-bfc7-1b7b9dea872c.png)
+
 🔭 I’m currently available to collaborate in projects.
 
-📫 How to reach me: berselismendoza@gmail.com
+📫 How to reach me: berselismendoza@gmail.com | **[Porfolio](https://bdevelopment.net/)**
 
+## 👨‍💻 Tecnologies
 
-
-<!--
-**berselis/berselis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763201-e1967206-4d4e-4f48-9f8a-e7033b41d074.png" alt="js"/></a>
+  <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194762962-36ea39e0-1fd2-4fcd-bd4e-0c385195650a.png" alt="asp.net"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763272-bcff2fac-c79b-4c56-adbf-e15f7233a32a.png" alt="cSharp"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763276-0a8cf7ce-58c0-4ea6-bb91-425d99b69ab1.png" alt="CSS3"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763280-840b317e-0530-4ea8-a4de-eaf595f64e3f.png" alt="HTML5"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763448-eff01c25-f6eb-4ff6-9989-fa7ba350141b.png" alt="react"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763465-68660db3-6aa2-4cab-a828-5cc9e38a8ca0.png" alt="sqlServer"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763524-41fcd386-5fca-426f-bf12-3591ec0e9508.png" alt="IIS"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763595-be2a8251-2bb2-4ea5-8683-7695455c7233.png" alt="nodejs"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763707-5821c84f-2268-4527-9352-5497e9739ee5.png" alt="netCore"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763863-ea594451-a0dc-4aed-9420-3eeb2b60465d.png" alt="postgres"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763916-94086009-12f2-4655-88bf-12d217539ff4.png" alt="microsoft"/></a>
+    <a href="#"><img style="width:64px;height:64px;border-radius:50%;" src="https://user-images.githubusercontent.com/68135098/194763991-de09de0b-7e80-4580-b782-406550926886.png" alt="github"/></a>
+</p>
