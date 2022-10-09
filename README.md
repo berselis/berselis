@@ -1,5 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently working on ...
+🔭 I’m currently available to locaborate in projects.
+
+📫 How to reach me: berselismendoza@gmail.com
+
+
 
 <!--
 **berselis/berselis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
