@@ -1,4 +1,4 @@
-![Screenshot 2022-10-09 102351](https://user-images.githubusercontent.com/68135098/194762159-27fad4db-eff0-4422-bfc7-1b7b9dea872c.png)
+![Image](https://github.com/user-attachments/assets/e47858bb-1eb4-42e1-ab34-f24deb152d5e)
 
 🔭 I’m currently available to collaborate in projects.
 
